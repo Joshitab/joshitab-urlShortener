@@ -53,7 +53,7 @@ const Home = () => {
               marginTop: "1rem",
             }}
           >
-            Joshitab URL Shortener
+          Joshitab URL Shortener
           </Title>
 
           <Text
